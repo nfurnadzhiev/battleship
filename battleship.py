@@ -74,16 +74,15 @@ for turn in range(4):
 #######################################################################
 #    playagain = raw_input("Would you like to play again? (Y/N)")
 #    if playagain == "Y":
-	#kvo da go eba da sloja tyk, za da proraboti?
-	#Probrah da sloja:
-	#board
-	#print_board(board)
-	#random_row(board)
-	#random_col(board)
+#	#kvo da go eba da sloja tyk, za da proraboti?
+#	#Probrah da sloja:
+#	#board
+#	#print_board(board)
+#	#random_row(board)
+#	#random_col(board)
 #        pass 
 #   elif playagain == "N":
 #        print "Bye!"
-       
 #        break
 #    else:
 #        print"Sorry, that wasn't Y or N. Try again."
